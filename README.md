@@ -1,14 +1,23 @@
 # Portfolio
 
-## About me
+## Why you might want to hire me
+
+xx
 
 ## Tools
+
+
 
 ## Skills
 
 ## Courses
 
-##
+## What I am familiar with
 
-| Tools       | Skills    |
+| **QA software**       || **Supporting**    |
+| ----------- || ----------- |
+| Tools       ||Skills    |
+
+| Courses       | Skills    |
 | ----------- | ----------- |
+| Tools       | Skills    |
