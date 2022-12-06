@@ -6,18 +6,14 @@ xx
 
 ## Tools
 
-
-
-## Skills
-
-## Courses
-
 ## What I am familiar with
 
-| **QA software**       || **Supporting**    |
-| ----------- || ----------- |
-| Tools       ||Skills    |
+| **QA software**       | **Supporting software**    |
+| ----------- | ----------- |
+| Tools       | Skills    |
 
-| Courses       | Skills    |
+## Skills and courses
+
+| **Skills**       | **Courses**    |
 | ----------- | ----------- |
 | Tools       | Skills    |
