@@ -10,5 +10,5 @@
 
 ##
 
-| Tools       | Skills      |
+| Tools       | Skills    |
 | ----------- | ----------- |
