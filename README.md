@@ -19,11 +19,17 @@ I found it a natural step for me to take up manual testing after 5.5 years of ex
 | Linear 3/5       | Screenpresso 4/5    |
 | Miro 3/5       | Teams 4/5    |
 
-## Skills and courses
+## Skills
 
-| **Skills**       | **Courses**    |
+| **Hard skills**       | **Soft skills**  |
 | ----------- | ----------- |
-| mySQL       | Skills    |
+| bug reporting      | team work    |
+| writing test cases       | negotiation    |
+| exploratory testing     | solution seeking    |
+| mobile and web apps testing    | project managing    |
+| exploratory testing     | deadline keeping    |
+| mySQL     | knowledge sharing    |
+| ISTQB     | agile working    |
 
 ## Test reports
 
