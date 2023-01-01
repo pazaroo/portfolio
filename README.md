@@ -12,11 +12,11 @@ I found it a natural step for me to take up manual testing after 5.5 years of ex
 
 | **QA software**       | **Supporting software**    |
 | ----------- | ----------- |
-| Jira 2/5         | Excel 4/5   |
+| Jira 2/5         | Excel 3/5   |
 | XAMPP 2/5    | PowerPoint 5/5   |
 | GitHub - 2/5        | Slack 5/5    |
 | DevTools 2/5      | PowerBI from user perspective 3/5   |
-| Linear 3/5       | Screenpresso 4/5    |
+| Linear 3/5       | Screenpresso 3/5    |
 | Miro 3/5       | Teams 4/5    |
 
 ## Skills
