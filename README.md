@@ -2,7 +2,7 @@
 
 ## Why you might want to hire me
 
-I am a self-driven and curious manual tester at training. I have completed an intense 8-week-long DareIT course for manual testing and am currently looking for opportunities to kick start my career in IT. For the past 5.5 years I have been working as a business presentations specialist. Now I want to continue my passion for detail as a tester. Exchange seeking crooked lines for finding out bugs! I could describe myself as self-reliant, ambitious and engaged. I value team work greatly and think good relations are extremely important for enabling good collaboration. I find myself naturally attracted to working as an individual, but am also greatly rewarded with pride of completing tasks together as a team! 
+I am a self-driven and curious manual tester in training. I have completed an intense 8-week-long DareIT course for manual testing and am currently looking for opportunities to kick start my career in IT. For the past 5.5 years I have been working as a business presentations specialist. Now I want to continue my passion for detail as a tester. Exchange seeking crooked lines for finding out bugs! I could describe myself as self-reliant, ambitious and engaged. I value team work greatly and think good relations are extremely important for enabling good collaboration. I find myself naturally attracted to working as an individual, but am also greatly rewarded with pride of completing tasks together as a team! 
 
 ## Experience
 
