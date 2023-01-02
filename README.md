@@ -33,6 +33,6 @@ I found it a natural step for me to take up manual testing after 5.5 years of ex
 
 ## Test reports
 
-(links and description)
+https://docs.google.com/presentation/d/1wVLtSimthwi6erCV-5VIrOsuGQK_5rt0t_2MSGiKgXE/edit
 
-## 
+https://docs.google.com/presentation/d/1DeRDN4OFfZD9DOaI9kCDadz89RvH6XeujpdI5-ea6YM/edit#slide=id.p
